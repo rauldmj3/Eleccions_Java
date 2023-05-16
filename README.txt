@@ -1,4 +1,4 @@
-LINK GITHUB: https://github.com/rauldmj3/eleccions_prog
+LINK GITHUB: https://github.com/rauldmj3/Eleccions_Java
 
 Hemos quitado de la interficie el método all() ya que nosotros empezamos directamente importando cada tabla, en un HashMap.
 Y eso nos permite leer más rápidamente las tablas y poder mostrarlas más rápido porque no tenemos que ir consultando a la base de datos.
